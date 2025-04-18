@@ -1,0 +1,11 @@
+streamlit
+google-api-python-client
+google-generativeai
+nltk
+matplotlib
+googletrans==4.0.0rc1
+datasets
+scikit-learn
+pandas
+transformers
+accelerate>=0.26.0
